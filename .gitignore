@@ -1,0 +1,6 @@
+.venv/ 
+checkpoints/ 
+*.pt 
+*.pth 
+*.csv 
+*.jpg
